@@ -1,0 +1,12 @@
+openai-whisper==20231117
+transformers==4.44.2
+torch==2.4.0
+opencv-python==4.10.0.84
+moviepy==1.0.3
+pydub==0.25.1
+nltk==3.9.1
+scikit-learn==1.5.1
+numpy==1.26.4
+rich==13.7.1
+streamlit==1.38.0
+pyannote.audio==3.3.1
